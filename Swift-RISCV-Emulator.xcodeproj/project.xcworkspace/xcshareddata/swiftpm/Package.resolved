@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "everything",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/schwa/Everything",
+      "state" : {
+        "revision" : "b4f7df298e379c800874aef282de976a3b28f162",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "swiftsimulation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/schwa/SwiftSimulation",
+      "state" : {
+        "revision" : "eab24a142c8667783edc25e7f9d4d2239b2c3dad",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
